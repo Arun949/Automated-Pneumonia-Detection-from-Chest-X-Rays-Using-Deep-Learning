@@ -1,0 +1,9 @@
+{
+  "accuracy": 86.7,
+  "precision": 88.1,
+  "recall": 86.7,
+  "f1_score": 86.1,
+  "auc_roc": 0.9689,
+  "backbone": "MobileNetV2 (Fast)",
+  "input_size": "160x160"
+}

@@ -1,0 +1,36 @@
+.git
+.gitignore
+.venv
+.env
+__pycache__
+*.pyc
+*.pyo
+
+# Dataset (can be GBs)
+chest_xray/
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artefacts
+*.egg-info/
+dist/
+build/
+
+# Docs (not needed in the image)
+ENHANCEMENTS.md
+README11.md
+*.png
+gradcam_sample.png
+accuracy_curve.png
+auc_curve.png
