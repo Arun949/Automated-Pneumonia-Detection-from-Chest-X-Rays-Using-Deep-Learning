@@ -175,3 +175,6 @@ cython_debug/
 
 # Dataset
 chest_xray/
+
+# Claude Code
+.claude/
